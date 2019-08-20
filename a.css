@@ -19,7 +19,7 @@ h1{
 
 .sectionTitle{
 background-color: rgb(236, 225, 225);
-font-size: 40px;
+font-size: 60px;
 padding: 10px;
 color:rgb(22, 3, 3);
 text-align: center;
@@ -37,41 +37,22 @@ text-align: center;
 
 
 .history{
-    font-size: 30px;
-    text-align: center;
+    font-size: 50px;
+    text-align: left;
     
 
 }
 .contact{
-    font-size: 25px;
+    font-size: 40px;
     text-align: center;
     font-family: cursive;
 
 }
 
 
-.pic2{
-    height: 600px;
-    border-radius: 80px;
-
-}
-
-
-
-.pic3{
-    border-radius: 80px;
-    height: 595px;
-}
-.pic4{
-
-    height: 600px;
-    border-radius: 80px;
-
-}
-
 
 .name{
-color:rgb(32, 24, 3);
+color:rgb(250, 249, 246);
 
 
 }
@@ -79,34 +60,27 @@ color:rgb(32, 24, 3);
 a{
     color:rgb(2, 2, 2);
     font-size: 50px;
+    }
+
+
+
+
+
+
+    .mainpictures{
+        border-radius: 50px;
+        text-align: center;
+        height: 700px;
+        width:700px;
     
-
-}
-
-
-
-
-
-
-
-a:hover{
-
-
-
-}
-
-a:visited{
-
-
-
-}
+    }
 
 ul{
 
-list-style-type: upper-roman;
+list-style-type: square;
 font-size: 30px;
-
-
+display: inline-block;
+text-align: center;
 
 }
 
@@ -117,10 +91,69 @@ font-size: 30px;
 
 }
 ul li{
+    list-style-type: square;
+    font-size: 30px;
+    display: inline-block;
+    margin:10px;
+    text-align: center;
 
 
-margin:5px;
 
 
 
 }
+
+.royalframes{
+color: rgb(187, 185, 155);
+
+
+}
+
+.frame{
+    border-radius: 50px;
+    text-align: center;
+    height: 700px;
+    width:700px;
+}
+
+
+.victorianframes{
+
+    color: rgb(187, 185, 155);
+
+
+}
+
+
+
+.frankishframes{
+
+    color: rgb(187, 185, 155);
+
+
+
+
+}
+
+
+.frame{
+    border-radius: 50px;
+    text-align: center;
+    height: 700px;
+    width:700px;
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
